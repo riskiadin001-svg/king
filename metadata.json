@@ -1,0 +1,6 @@
+{
+  "name": "Lunar Phase Tracker",
+  "description": "An elegant, interactive celestial calendar tracking moon phases, dates, and astrological signs automatically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
